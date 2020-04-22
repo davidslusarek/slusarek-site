@@ -3,4 +3,4 @@
 <h1>Projekt strony</h1>
 <img src="/STRONA.png" alt="Projekt strony"/>
 <h2>Zadarnie 3 - Graph</h2>
-<img src="/STRONA.png" alt="Projekt strony"/>
+<img src="/JM-GRAPH2.png" alt="Projekt strony"/>
